@@ -1,22 +1,7 @@
 {
   "players": {
-    "384718982625886208": {
-      "hash": "5d721d7e2a5c5dba3dd9472c00c0e29b4180a92d09e26fc5b5ba5e38782740248904907dc104329944ccee3dd091232946d468497200a7d6cb947d12fb9e9f8c",
-      "attackable": false,
-      "notag": true
-    },
-    "837815287897128990": {
-      "hash": "38c29b0d998a62b92661bb6d77c265836391818d0a28c1b86e32f4af1df35d5c8063d9b095ba02d204295ea1fb77275683917e15fab13e9ce79895126798ed33",
-      "attackable": false,
-      "notag": false
-    },
-    "548146409065545730": {
-      "hash": "c067e91dec67df9b95b9ebac22b6a5fef5b6d790b80a41430a9f5ccf3e6a233cacae03eafcad0e5d57fb85a2b083cbfc7cc1c073a4c87b03f53ac206b5bd2ec3",
-      "attackable": false,
-      "notag": false
-    },
-    "709094619161296939": {
-      "hash": "085147494264d30dac70c274dbc8c544e24b0bab9b790fa95a198d7cccc8a1c99c9a25e274efdd0a8984e8260593dd3bdb64cea2fb0c4a26e6f623fe6b92ac94",
+    "1115379233464795136": {
+      "hash": "e4c14ae47055c1c110b88ddaa7913c70bc840060d6b08cd47a62f31f42265d8e875960e4915ecf5cb0cc7f66cbf7d665af88e5114c76bcc59a37ca6b40f79c5b",
       "attackable": false,
       "notag": false
     }
@@ -24,6 +9,11 @@
   "owners": {
     "1059269872011444354": {
       "hash": "58b5c4e3f3daa61dbcd767cc2c44a7fa5c3062b3334fb683a13286409b16a2924096fa9c5a06ed40deea88a3805246bca39d3fc33eb45989e4810061cabc467d",
+      "attackable": false,
+      "notag": false
+    },
+    "1072698128387547216": {
+      "hash": "0fa6a2757d253c5170ad76bcee3398e66054b58b78b4b95deb6c477c01b4751dc11dbfd582401dd73ed13b75ef88a09d2befd761ff1f3d219db1b3e579b186d8",
       "attackable": false,
       "notag": false
     }
